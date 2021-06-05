@@ -1,8 +1,0 @@
----
-applications:
-
-
-- name: Pyhon Flask App.501
-  random-route: true
-  memory: 512M
-  disk_quota: 1.5G
